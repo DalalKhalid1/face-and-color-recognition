@@ -12,6 +12,14 @@
 - Detects red objects using OpenCV.
 - Includes:
   - `color_recognition.py` → detects red color via camera
+---
+##  Screenshots
+
+### Face Recognition Example
+![Face Recognition](screenshot2.png)
+
+### Color Recognition Example
+![Color Recognition](screenshot.png)
 
 ---
 
