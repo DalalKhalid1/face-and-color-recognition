@@ -16,10 +16,10 @@
 ##  Screenshots
 
 ### Face Recognition Example
-![Face Recognition](screenshot2.png)
+![Face Recognition](screenshot2.png.png)
 
 ### Color Recognition Example
-![Color Recognition](screenshot.png)
+![Color Recognition](screenshot.png.png)
 
 ---
 
