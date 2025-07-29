@@ -13,7 +13,7 @@
 - Includes:
   - `color_recognition.py` → detects red color via camera
 ---
-![Screenshot](screenshot2.png)
+![Screenshot](images/screenshot2.png)
 ---
 
 ###  How to Run:
