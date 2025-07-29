@@ -13,7 +13,7 @@
 - Includes:
   - `color_recognition.py` → detects red color via camera
 ---
-![[face-and-color-recognition](https://github.com/DalalKhalid1/face-and-color-recognition)](screenshot2.png)
+![[face-and-color-recognition](https://github.com/DalalKhalid1/face-and-color-recognition)](screenshot2.png.png)
 ---
 
 ###  How to Run:
