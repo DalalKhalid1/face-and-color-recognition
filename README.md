@@ -25,6 +25,7 @@
    python face_recognition.py
    
 3. Run color recognition:
+   
 python color_recognition.py
 
 **Note:**  
